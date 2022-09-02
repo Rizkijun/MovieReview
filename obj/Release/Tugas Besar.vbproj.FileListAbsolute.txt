@@ -1,0 +1,29 @@
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Tugas Besar.exe.config
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Tugas Besar.exe
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Tugas Besar.pdb
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Tugas Besar.xml
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Guna.UI.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\MySql.Data.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Google.Protobuf.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Renci.SshNet.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\MySql.Data.xml
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.vbprojAssemblyReference.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.vbproj.ResolveComReference.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas_Besar.MainForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas_Besar.LoginForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas_Besar.RegistrationForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas_Besar.Resources.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.vbproj.GenerateResource.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.vbproj.CopyComplete
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.exe
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.xml
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.pdb
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas Besar.vbproj.CoreCompileInputs.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Release\Tugas_Besar.ReviewForm.resources

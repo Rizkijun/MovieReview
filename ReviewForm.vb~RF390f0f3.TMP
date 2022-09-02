@@ -1,0 +1,56 @@
+﻿Public Class ReviewForm
+    Private Sub btnClose_Click(sender As Object, e As EventArgs) Handles btnClose.Click
+        Me.Close()
+    End Sub
+
+    Private Sub btnMinimize_Click(sender As Object, e As EventArgs) Handles btnMinimize.Click
+        Me.WindowState = FormWindowState.Minimized
+    End Sub
+
+    Private Sub btnMaximize_Click(sender As Object, e As EventArgs) Handles btnMaximize.Click
+        If Me.WindowState = FormWindowState.Normal Then
+            Me.WindowState = FormWindowState.Maximized
+        Else
+            Me.WindowState = FormWindowState.Normal
+        End If
+    End Sub
+    Private Sub BunifuRating2_onValueChanged(sender As Object, e As EventArgs) Handles BunifuRating2.onValueChanged
+        If BunifuRating2.Value = 1 Then
+            MsgBox("Oof, that was bad!", MsgBoxStyle.Information, "Rating Scale")
+        ElseIf BunifuRating2.Value = 2 Then
+            MsgBox("Meh, it passed the time", MsgBoxStyle.Information, "Rating Scale")
+        ElseIf BunifuRating2.Value = 3 Then
+            MsgBox("Ok, that was pretty good", MsgBoxStyle.Information, "Rating Scale")
+        ElseIf BunifuRating2.Value = 4 Then
+            MsgBox("Awesome!", MsgBoxStyle.Information, "Rating Scale")
+        ElseIf BunifuRating2.Value = 5 Then
+            MsgBox("So Fresh, absolute must see!", MsgBoxStyle.Information, "Rating Scale")
+        End If
+    End Sub
+    Private Sub txtReview_Click(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles txtReview.Click
+        If txtReview.Text = "What did you think about the movie?" Then
+            txtReview.Text = ""
+            txtReview.ForeColor = Color.Black
+        End If
+    End Sub
+    Private Sub txtReview_Leave(ByVal sender As Object, ByVal e As System.EventArgs)
+        If txtReview.Text = "What did you think about the movie?" Or txtReview.Text = "" Then
+            txtReview.Text = "What did you think about the movie?"
+            txtReview.ForeColor = Color.Silver
+        End If
+    End Sub
+    Private Sub txtReview_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles txtReview.Click
+        If txtReview.Text = "What did you think about the movie?" Then
+            txtReview.Text = ""
+            txtReview.ForeColor = Color.Black
+        End If
+    End Sub
+
+    Private Sub btn1_Click(sender As Object, e As EventArgs) Handles btn1.Click
+        WebBrowser1.Navigate("https://www.youtube.com/watch?v=WO_FJdiY9dA&t")
+    End Sub
+
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+
+    End Sub
+End Class

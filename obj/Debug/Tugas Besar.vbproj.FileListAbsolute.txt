@@ -1,0 +1,60 @@
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.exe.config
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.exe
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.pdb
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.xml
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbprojAssemblyReference.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Resources.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.GenerateResource.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.exe
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.xml
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.pdb
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\MySql.Data.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Google.Protobuf.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Renci.SshNet.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\MySql.Data.xml
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.CopyComplete
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.RegistrationForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.LoginForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.MainForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.ResolveComReference.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.CoreCompileInputs.cache
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.AboutForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ListForm.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm2.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm3.resources
+C:\Users\Rizki\Documents\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm4.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.exe.config
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.exe
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.pdb
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Tugas Besar.xml
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Google.Protobuf.dll
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\BouncyCastle.Crypto.dll
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Ubiety.Dns.Core.dll
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\Renci.SshNet.dll
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\bin\Debug\MySql.Data.xml
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.AssemblyReference.cache
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.SuggestedBindingRedirects.cache
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.ResolveComReference.cache
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.AboutForm.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ListForm.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.MainForm.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.LoginForm.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.RegistrationForm.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.Resources.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm2.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm3.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas_Besar.ReviewForm4.resources
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.GenerateResource.cache
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.CoreCompileInputs.cache
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.vbproj.CopyComplete
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.exe
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.xml
+F:\File Informatika Semester 2\Pemrograman Visual\Big Project\Tugas Besar\Tugas Besar\obj\Debug\Tugas Besar.pdb
